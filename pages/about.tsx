@@ -38,16 +38,12 @@ export default function About() {
               </p>
               <div className="prose prose-lg text-gray-600 space-y-4">
                 <p>
-                  Orin brings a unique dual certification 
-                  in both adult primary care and psychiatric mental health, offering comprehensive 
-                  care that understands the whole person.
+                Orin earned his Master of Science in Adult-Gerontology Primary Care from The Johns Hopkins University and completed a Post-Master’s Certificate in Psychiatric Mental Health at Wilkes University. Since 2013 he has been caring for patients in a variety of settings, including a Level I trauma hospital, primary care, neurology, orthopedics, psychiatry, and pain management. Orin values the strong connection between mind and body, and he believes mental health plays a vital role in every aspect of wellness. His passion is helping patients feel supported, understood, and empowered to live healthier, more fulfilling lives. 
+
                 </p>
                 
                 <p>
-                  With years of experience in healthcare, Orin believes that mental wellness is 
-                  deeply connected to overall health. Their approach combines evidence-based 
-                  psychiatric care with a warm, inclusive environment where every individual 
-                  feels heard, respected, and empowered in their healing journey.
+                His approach combines evidence-based psychiatric care with a warm, inclusive environment where every individual feels heard and respected in their healing journey.
                 </p>
               </div>
             </div>

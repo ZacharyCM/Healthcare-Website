@@ -100,7 +100,7 @@ export default function Navigation() {
               })}
               <div className="px-3 py-2">
                 <Link href="/contact" className="btn-primary w-full" onClick={() => setIsOpen(false)}>
-                  Schedule Consultation
+                  Book Now
                 </Link>
               </div>
             </div>
