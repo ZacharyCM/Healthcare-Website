@@ -7,7 +7,7 @@ const policies = [
   {
     id: 1,
     question: 'Telehealth Policy',
-    answer: 'We offer secure, HIPAA-compliant video sessions through our telehealth platform. Virtual appointments provide the same quality of care as in-person visits and are available for most services including psychiatric evaluations, medication management, and therapy sessions. This allows you to receive care from the comfort and privacy of your own home.'
+    answer: 'We offer secure, HIPAA-compliant video sessions through our telehealth platform. Virtual appointments provide the same quality of care as in-person visits and are available for most services including psychiatric evaluations and medication management with supportive psychotherapy sessions. This allows you to receive care from the comfort and privacy of your own home. Please understand that you must reside in the state at which the provider is licensed during the time of your visit: DC, VA, or MD. If you live in any other state or territory, unfortunately we cannot treat you at this time.'
   },
   {
     id: 2,

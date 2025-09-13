@@ -9,11 +9,6 @@ const navigation = {
     { name: 'Policies', href: '/policies' },
     { name: 'Contact', href: '/contact' },
   ],
-  legal: [
-    { name: 'Privacy Policy', href: '/privacy' },
-    { name: 'Terms of Service', href: '/terms' },
-    { name: 'HIPAA Notice', href: '/hipaa' },
-  ]
 }
 
 export default function Footer() {
@@ -76,21 +71,6 @@ export default function Footer() {
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="text-sm text-gray-400">
                 <p>© {new Date().getFullYear()} Excellary Health LLC. All rights reserved.</p>
-                <p className="mt-1">
-                  Orin Greene, AGNP-C, PMHNP-BC • Licensed in DC, MD, VA
-                </p>
-              </div>
-              
-              <div className="flex space-x-6">
-                {navigation.legal.map((item) => (
-                  <Link
-                    key={item.name}
-                    href={item.href}
-                    className="text-sm text-gray-400 hover:text-gray-300 transition-colors duration-200 focus-visible"
-                  >
-                    {item.name}
-                  </Link>
-                ))}
               </div>
             </div>
           </div>
