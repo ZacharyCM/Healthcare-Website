@@ -28,12 +28,8 @@ export default function Footer() {
                 <div className="w-8 h-8 bg-gradient-to-br from-primary-500 to-secondary-600 rounded-lg flex items-center justify-center">
                   <span className="text-white font-bold text-sm">EH</span>
                 </div>
-                <span className="font-semibold text-xl">Excellary Health LLC</span>
+                <span className="font-semibold text-xl">Excellary Health</span>
               </div>
-              <p className="text-gray-300 mb-4 max-w-md">
-                Compassionate psychiatric care tailored for you. Serving teens, adults, and all communities 
-                across DC, MD & VA with telehealth.
-              </p>
             </div>
 
             {/* Quick Links */}
@@ -63,7 +59,7 @@ export default function Footer() {
               <div className="space-y-3">
                 <div className="flex items-center space-x-2 text-gray-300">
                   <EnvelopeIcon className="h-4 w-4" />
-                  <span className="text-sm">contact@excellaryhealth.com</span>
+                  <span className="text-sm">contact@excellaryhealthLLC.com</span>
                 </div>
                 <div className="flex items-start space-x-2 text-gray-300">
                   <MapPinIcon className="h-4 w-4 mt-0.5" />
@@ -98,18 +94,6 @@ export default function Footer() {
               </div>
             </div>
           </div>
-        </div>
-      </div>
-
-      {/* Disclaimer */}
-      <div className="border-t border-gray-800 bg-gray-950">
-        <div className="container-custom py-4">
-          <p className="text-xs text-gray-500 text-center">
-            <strong>Medical Disclaimer:</strong> The information on this website is for educational purposes only and 
-            is not intended to replace professional medical advice, diagnosis, or treatment. Always seek the advice 
-            of your physician or other qualified health provider with any questions you may have regarding a medical condition.
-            In case of a medical emergency, call 911 immediately.
-          </p>
         </div>
       </div>
     </footer>

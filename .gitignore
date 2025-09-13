@@ -174,7 +174,7 @@ dist
 
 # Gatsby files
 .cache/
-public
+# REMOVED: public (so your images can be included)
 
 # Storybook build outputs
 .out

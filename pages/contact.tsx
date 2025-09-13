@@ -124,7 +124,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600">contact@excellaryhealth.com</p>
+                    <p className="text-gray-600">contact@excellaryhealthLLC.com</p>
                     <p className="text-sm text-gray-500">Professional inquiries welcome</p>
                   </div>
                 </div>
@@ -165,7 +165,7 @@ export default function Contact() {
             {/* Contact Form */}
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-8">
-                Get Started Today 😊
+                Get Started Today
               </h2>
               
               {submitStatus === 'success' && (
