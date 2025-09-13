@@ -14,7 +14,7 @@ const highlights = [
     title: 'Inclusive & Affirming Care',
     description: 'Creating a safe, welcoming space for all identities, orientations, and backgrounds. Your authentic self is celebrated here.',
     icon: HeartIcon,
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1544027993-37dbfe43562a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
     gradient: 'from-primary-500 to-warm-500'
   },
   {
@@ -22,7 +22,7 @@ const highlights = [
     title: 'Convenient Virtual Care',
     description: 'Access quality psychiatric care from the comfort of your home with secure, HIPAA-compliant video sessions.',
     icon: VideoCameraIcon,
-    image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: '/images/convient.PNG',
     gradient: 'from-secondary-500 to-primary-500'
   },
   {
@@ -30,7 +30,7 @@ const highlights = [
     title: 'Comprehensive Mental Wellness',
     description: 'From anxiety and depression to ADHD and life transitions, we provide holistic care for your mental health journey.',
     icon: ShieldCheckIcon,
-    image: 'https://images.unsplash.com/photo-1544027993-37dbfe43562a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+    image: '/images/comprehensive.PNG',
     gradient: 'from-warm-500 to-secondary-500'
   }
 ]
@@ -81,6 +81,7 @@ export default function FeaturedHighlights() {
                   fill
                   className="object-cover group-hover:scale-110 transition-transform duration-300"
                   sizes="(max-width: 768px) 100vw, 33vw"
+                  unoptimized={true}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
                 <div className={`absolute top-4 right-4 w-12 h-12 bg-gradient-to-br ${highlight.gradient} rounded-full flex items-center justify-center shadow-lg`}>

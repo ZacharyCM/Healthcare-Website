@@ -18,7 +18,7 @@ export default function HeroSection() {
           <div className="relative max-w-2xl w-full lg:order-1">
             <div className="relative w-full h-96 lg:h-[500px] rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/images/famila.png"
+                  src="/images/front.PNG"
                   alt="Black mother and white father with their biracial children, representing diverse and inclusive mental health care"
                 fill
                 className="object-cover"
@@ -37,7 +37,7 @@ export default function HeroSection() {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-200 to-orange-200">
                 Psychiatric Care
               </span>{' '}
-              Tailored for Anyone
+              Tailored for You
             </h1>
             {/* Key Features */}
             <div className="flex flex-wrap justify-center lg:justify-start gap-4 mb-8">
