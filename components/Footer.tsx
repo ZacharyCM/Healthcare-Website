@@ -59,7 +59,7 @@ export default function Footer() {
                 <div className="flex items-start space-x-2 text-gray-300">
                   <MapPinIcon className="h-4 w-4 mt-0.5" />
                   <span className="text-sm">
-                    1717 N St Nw Ste 1<br />Washington, DC 20036
+                    2001 L St NW Suite 500<br />Washington, DC 20036
                   </span>
                 </div>
               </div>

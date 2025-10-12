@@ -35,10 +35,10 @@ const services = [
     features: ['Daily challenges', 'Personal objectives', 'Stress management', 'Coping strategies']
   },
   {
-    title: 'Telepsychiatry / Video Sessions',
+    title: 'Telepsychiatry / Video Sessions & In Person Vists',
     description: 'Convenient, secure virtual appointments from the comfort and privacy of your own space.',
     icon: VideoCameraIcon,
-    features: ['HIPAA-compliant platform', 'Flexible scheduling', 'Same quality care', 'Reduced travel time']
+    features: ['HIPAA-compliant platform', 'Flexible scheduling', 'Same quality care', 'In-Person: DC, MD, VA']
   }
 ]
 

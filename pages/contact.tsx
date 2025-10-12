@@ -138,7 +138,7 @@ export default function Contact() {
                     <p className="text-gray-600">Washington, DC</p>
                     <p className="text-gray-600">Maryland</p>
                     <p className="text-gray-600">Virginia</p>
-                    <p className="text-sm text-gray-500">Virtual appointments</p>
+                    <p className="text-sm text-gray-500">Virtual & In-Person Avaliable</p>
                   </div>
                 </div>
               </div>

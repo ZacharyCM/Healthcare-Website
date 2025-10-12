@@ -52,7 +52,7 @@ export default function About() {
               <div className="relative w-full h-96 lg:h-[500px] rounded-2xl overflow-hidden shadow-2xl bg-gray-100">
                 {!imageError ? (
                   <Image
-                    src="/images/ProfOrinPhoto.JPG"
+                    src="/images/OrinAboutMe.JPG"
                     alt="Professional portrait of Orin Greene, AGNP-C, PMHNP-BC"
                     fill
                     className="object-contain"
