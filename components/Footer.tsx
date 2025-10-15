@@ -54,7 +54,7 @@ export default function Footer() {
               <div className="space-y-3">
                 <div className="flex items-center space-x-2 text-gray-300">
                   <EnvelopeIcon className="h-4 w-4" />
-                  <span className="text-sm">contact@excellaryhealthLLC.com</span>
+                  <span className="text-sm">contact@excellaryhealth.com</span>
                 </div>
                 <div className="flex items-start space-x-2 text-gray-300">
                   <MapPinIcon className="h-4 w-4 mt-0.5" />

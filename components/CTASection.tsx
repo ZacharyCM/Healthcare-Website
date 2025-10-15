@@ -28,7 +28,7 @@ export default function CTASection() {
                 </div>
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-primary-100">contact@excellaryhealthLLC.com</p>
+                  <p className="text-primary-100">contact@excellaryhealth.com</p>
                 </div>
               </div>
               

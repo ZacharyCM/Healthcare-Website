@@ -84,7 +84,7 @@ const insuranceProviders = [
   'Oscar',
   'Cigna',
   'United Healthcare',
-  'Kaiser Permanente',
+  'Tufts Health',
   'Optum',
   'Humana-Medicare and Humana Dual- Medicare/Medicaid',
   'Self-Pay Options'
