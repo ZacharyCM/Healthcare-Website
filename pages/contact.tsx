@@ -88,7 +88,7 @@ export default function Contact() {
   return (
     <Layout
       title="Contact Us"
-      description="Contact Excellary Health LLC to schedule your mental health consultation. Call, email, or use our secure contact form. Serving DC, MD & VA with telehealth options."
+      description="Contact Excellary Health to schedule your mental health consultation. Call, email, or use our secure contact form. Serving DC, MD & VA with telehealth options."
       keywords="contact mental health provider, schedule consultation, psychiatric appointment, telehealth booking, Washington DC therapist contact"
     >
       {/* Hero Section */}

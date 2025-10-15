@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
         <meta charSet="utf-8" />
         <meta name="robots" content="index, follow" />
-        <meta name="author" content="Excellary Health LLC" />
+        <meta name="author" content="Excellary Health" />
         
         {/* Preconnect to external domains for performance */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -14,7 +14,7 @@ export default function Document() {
         
         {/* Default OpenGraph image */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Excellary Health LLC" />
+        <meta property="og:site_name" content="Excellary Health" />
         <meta property="og:image" content="/images/og-default.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />

@@ -70,7 +70,7 @@ export default function Footer() {
           <div className="border-t border-gray-800 mt-8 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="text-sm text-gray-400">
-                <p>© {new Date().getFullYear()} Excellary Health LLC. All rights reserved.</p>
+                <p>© {new Date().getFullYear()} Excellary Health. All rights reserved.</p>
               </div>
             </div>
           </div>

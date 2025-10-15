@@ -12,12 +12,12 @@ interface LayoutProps {
 
 export default function Layout({
   children,
-  title = 'Excellary Health LLC',
+  title = 'Excellary Health',
   description = 'Compassionate psychiatric care tailored for you. Serving teens, adults, and all communities across DC, MD & VA with telehealth and in-person appointments.',
   keywords = 'mental health, psychiatric care, Washington DC, Maryland, Virginia, ADHD, anxiety, depression, telehealth, LGBTQIA+ therapist, nurse practitioner',
   ogImage = '/images/og-default.jpg'
 }: LayoutProps) {
-  const fullTitle = title === 'Excellary Health LLC' ? title : `${title} | Excellary Health LLC`
+  const fullTitle = title === 'Excellary Health' ? title : `${title} | Excellary Health`
 
   return (
     <>
@@ -50,7 +50,7 @@ export default function Layout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "MedicalOrganization",
-              "name": "Excellary Health LLC",
+              "name": "Excellary Health",
               "description": description,
               "founder": {
                 "@type": "Person",
